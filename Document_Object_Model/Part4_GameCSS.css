@@ -1,0 +1,21 @@
+td{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  /*padding: 100px;*/
+  border: 5px solid orangered;
+  font-size: 100px
+}
+
+.jumbotron{
+  background-color: blueviolet;
+}
+
+.container{
+  background-color: black;
+}
+
+body{
+  background-color: aquamarine;
+}
+
